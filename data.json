@@ -1,0 +1,18 @@
+{
+"career":
+{
+"data":"data objective"
+},
+"education":[
+{
+  "degree":"intermediate",
+  "college":"nobel",
+  "date":["2015-01-02","80%"]
+},
+{
+  "degree":"intermediate",
+  "college":"nobel",
+  "date":["2015-01-02","80%"]
+}
+]
+}
